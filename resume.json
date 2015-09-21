@@ -23,22 +23,58 @@
             {
                 "network": "Tumblr",
                 "username": "BackIsBachus",
-                "url": "http://backisbachus.tumblr.com/"
+                "url": "https://backisbachus.tumblr.com/"
             }
         ]
     },
     "work": [
         {
-            "company": "Pied Piper",
-            "position": "CEO/President",
-            "website": "http://piedpiper.com",
-            "startDate": "2013-12-01",
-            "endDate": "2014-12-01",
-            "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+            "company": "Student Gaming Network",
+            "position": "Network Project Manager and Lead Fron-end Developer",
+            "website": "http://studentgamingnetwork.fr",
+            "startDate": "2015-06-01",
+            "endDate": "",
+            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. They also organize an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
-                "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-                "Successfully won Techcrunch Disrupt",
-                "Optimized an algorithm that holds the current world record for Weisman Scores"
+                "Design, development and launch of a showcase website",
+                "Design and incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
+            ]
+        },
+        {
+            "company": "ISoft",
+            "position": "Engineering Internship - Amadea Web application developer",
+            "website": "http://www.isoft.fr/index_en.htm",
+            "startDate": "2015-06-29",
+            "endDate": "2015-08-28",
+            "summary": "Amadea is a Data Management Platform for real time data integration and transformation based on Data Morphing. It is the base engine for several other application developed by ISoft such as Fraud Manager used in fraud control by banks and insurance companies.",
+            "highlights": [
+                "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component.",
+                "Adaptation of the personalization module to be reusable in another application which allowed a user to select preset components.",
+                "Continuous reflection about possible evolutions of Amadea Web thanks to this update."
+            ]
+        },
+        {
+            "company": "CentraleSupélec - TrainingAdvisor",
+            "position": "Symfony2 Back-end Developer",
+            "website": "https://trainingadvisor.supelec.fr",
+            "startDate": "2014-09-01",
+            "endDate": "2015-07-15",
+            "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec and the feedbacks from those who have already been there. TrainingAdvisor aims at simplifying the access to information for the students and offering them the benefits of their predecessors experience and advice. The platform also make it possible to extract the main trends.",
+            "highlights": [
+                "Design according to specifications from the international direction and the strategic direction,",
+                "Development of a web platform with Symfony2",
+                "Launch in production of the platform for the end of the school year 2014-2015"
+            ]
+        },
+        {
+            "company": "CyXplus",
+            "position": "Developer intern",
+            "website": "http://www.cyxplus.fr/",
+            "startDate": "2014-06-15",
+            "endDate": "2014-07-18",
+            "summary": "CyXplus is in the NDT (Non Destructive Testing) industry, and is constantly working at supplying the most efficient inspection equipment and software to demanding manufacturing industries.",
+            "highlights": [
+                "Development of scripts in VBA to control and automatically generate files for the software design office."
             ]
         }
     ],
