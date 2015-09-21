@@ -2,7 +2,7 @@
     "basics": {
         "name": "Jean-Sébastien Renaud",
         "label": "Programmer",
-        "picture": "img/photo_js.jpg",
+        "picture": "",
         "email": "jean-sebastien@renaud.xyz",
         "phone": "(+33)6 26 55 91 23",
         "website": "http://renaud.xyz",
@@ -113,7 +113,11 @@
         },
         {
             "language": "English",
-            "fluency": "Fluent"
+            "fluency": "Professional working proficiency"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Limited working proficiency"
         }
     ],
     "interests": [
