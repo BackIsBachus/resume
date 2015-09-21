@@ -94,14 +94,16 @@
     "education": [
         {
             "institution": "CentraleSupélec",
-            "area": "Information Technology",
-            "studyType": "Bachelor",
-            "startDate": "2011-06-01",
-            "endDate": "2014-01-01",
-            "gpa": "4.0",
+            "area": "Computer Science",
+            "studyType": "Master of Engineering (MEng)",
+            "startDate": "2013-09-02",
+            "endDate": "",
+            "gpa": "",
             "courses": [
-                "DB1101 - Basic SQL",
-                "CS2011 - Java Introduction"
+                "Advanced Web applications",
+                "Network and system programming",
+                "Security oriented programming",
+                "Web algorithms and social networks"
             ]
         }
     ],
