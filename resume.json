@@ -172,15 +172,39 @@
                 "JavaScript",
                 "PHP",
                 "Symfony2",
+                "Foudation",
             ]
         },
         {
-            "name": "Compression",
-            "level": "Master",
+            "name": "System administration",
+            "level": "Average",
             "keywords": [
-                "Mpeg",
-                "MP4",
-                "GIF"
+                "Debian",
+                "CentOS",
+                "Apache2",
+                "LDAP",
+                "Network infrastructure"
+            ]
+        },
+        {
+            "name": "Monitoring",
+            "level": "Average",
+            "keywords": [
+                "Nagios",
+                "Icinga",
+                "Observium"
+            ]
+        },
+        {
+            "name": "Programming",
+            "level": "Average",
+            "keywords": [
+                "Python",
+                "Ruby",
+                "Java",
+                "C++",
+                "C#",
+                "Lua"
             ]
         }
     ],
