@@ -240,7 +240,12 @@
             "name": "Cooking"
         },
         {
-            "name": "Video games"
+            "name": "Video games",
+            "keywords": [
+                "Game server administration",
+                "Team co-op games",
+                "Team competitive games"
+            ]
         }
     ],
     "references": [
