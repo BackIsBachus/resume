@@ -101,7 +101,19 @@
             "highlights": [
                 "Training of the new active members of the association"
             ]
-        }
+        },
+        {
+            "organization": "Supélec Rézo",
+            "position": "Active member",
+            "website": "http://rezomen.fr/",
+            "startDate": "2013-09-01",
+            "endDate": "",
+            "summary": "Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
+            "highlights": [
+                ""
+            ]
+        },
+
     ],
     "education": [
         {
