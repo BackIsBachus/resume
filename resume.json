@@ -165,11 +165,13 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "Master",
+            "level": "Average",
             "keywords": [
                 "HTML",
                 "CSS",
-                "Javascript"
+                "JavaScript",
+                "PHP",
+                "Symfony2",
             ]
         },
         {
