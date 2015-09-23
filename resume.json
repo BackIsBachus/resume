@@ -24,6 +24,11 @@
                 "network": "Tumblr",
                 "username": "BackIsBachus",
                 "url": "https://backisbachus.tumblr.com/"
+            },
+            {
+                "network": "GitHub",
+                "username": "BackIsBachus",
+                "url": "https://github.com/BackIsBachus"
             }
         ]
     },
