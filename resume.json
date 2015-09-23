@@ -172,7 +172,7 @@
                 "JavaScript",
                 "PHP",
                 "Symfony2",
-                "Foudation",
+                "Foudation"
             ]
         },
         {
@@ -183,7 +183,8 @@
                 "CentOS",
                 "Apache2",
                 "LDAP",
-                "Network infrastructure"
+                "Network infrastructure",
+                "Steam game servers"
             ]
         },
         {
