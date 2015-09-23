@@ -83,11 +83,23 @@
             "organization": "Supélec Rézo",
             "position": "President",
             "website": "http://rezomen.fr/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Global movement of free coding clubs for young people.",
+            "startDate": "2014-12-01",
+            "endDate": "2015-05-01",
+            "summary": "Management of the association as President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
             "highlights": [
-                "Awarded 'Teacher of the Month'"
+                "Changed the fiber connecting the campus for a higer bandwith",
+                "Migrated the monitoring service from Nagios to Icinga2"
+            ]
+        },
+        {
+            "organization": "Supélec Rézo",
+            "position": "Secretary",
+            "website": "http://rezomen.fr/",
+            "startDate": "2014-04-01",
+            "endDate": "2014-12-01",
+            "summary": "Management of the association as Secretary. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
+            "highlights": [
+                "Training of the new active members of the association"
             ]
         }
     ],
@@ -114,7 +126,7 @@
             "endDate": "2013-07-15",
             "gpa": "",
             "courses": [
-                ""
+
             ]
         }
     ],
