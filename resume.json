@@ -81,24 +81,14 @@
     "volunteer": [
         {
             "organization": "Supélec Rézo",
-            "position": "President",
+            "position": "Active member, Secretary and President",
             "website": "http://rezomen.fr/",
             "startDate": "2014-12-01",
             "endDate": "2015-05-01",
-            "summary": "Management of the association as President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
+            "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
             "highlights": [
                 "Changed the fiber connecting the campus for a higer bandwith",
-                "Migrated the monitoring service from Nagios to Icinga2"
-            ]
-        },
-        {
-            "organization": "Supélec Rézo",
-            "position": "Secretary",
-            "website": "http://rezomen.fr/",
-            "startDate": "2014-04-01",
-            "endDate": "2014-12-01",
-            "summary": "Management of the association as Secretary. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
-            "highlights": [
+                "Migrated the monitoring service from Nagios to Icinga2",
                 "Training of the new active members of the association"
             ]
         },
@@ -112,17 +102,6 @@
             "highlights": [
                 "Contributed to the creation of the Student Gaming Network",
                 "Deployed several servers for popular games"
-            ]
-        },
-        {
-            "organization": "Supélec Rézo",
-            "position": "Active member",
-            "website": "http://rezomen.fr/",
-            "startDate": "2013-09-01",
-            "endDate": "",
-            "summary": "Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
-            "highlights": [
-                ""
             ]
         }
 
