@@ -34,7 +34,7 @@
             "website": "http://studentgamingnetwork.fr",
             "startDate": "2015-06-01",
             "endDate": "",
-            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. They also organize an E-sport tournament for students in partnership with the ESL.",
+            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
                 "Design, development and launch of a showcase website",
                 "Design and incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
@@ -102,6 +102,18 @@
             "highlights": [
                 "Deployed several servers for popular games",
                 "Organized the first Gaming Week-Ends on the campus"
+            ]
+        },
+        {
+            "organization": "Student Gaming Network",
+            "position": "Founding member",
+            "website": "http://studentgamingnetwork.fr/",
+            "startDate": "2015-05-01",
+            "endDate": "",
+            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
+            "highlights": [
+                "Organized the first edition of the Student Gaming League",
+                "Designed and developed the first showcase website for the tournament"
             ]
         }
 
