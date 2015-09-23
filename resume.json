@@ -170,7 +170,7 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "Average",
+            "level": "Master",
             "keywords": [
                 "HTML",
                 "CSS",
@@ -250,7 +250,8 @@
                 "Game server administration",
                 "Story rich game",
                 "Team co-op games",
-                "Team competitive games"
+                "Team competitive games",
+                "Dance Dance Revolution"
             ]
         }
     ],
