@@ -105,6 +105,17 @@
                 "Security oriented programming",
                 "Web algorithms and social networks"
             ]
+        },
+        {
+            "institution": "Lycée Vauvenargues",
+            "area": "Physics and Technology",
+            "studyType": "Preparatory class for the \"Banque PT\" selective exam",
+            "startDate": "2011-09-01",
+            "endDate": "2013-07-15",
+            "gpa": "",
+            "courses": [
+                ""
+            ]
         }
     ],
     "awards": [
