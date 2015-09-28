@@ -132,6 +132,20 @@
             "endDate": "",
             "gpa": "",
             "courses": [
+                "Information System and Databases",
+                "Information System Architecture",
+                "Software Engineering",
+                "Computer Science Foundations, Data Structures and Algorithms"
+            ]
+        },
+        {
+            "institution": "Université Paris-Saclay",
+            "area": "Foundations of Computer Science and Software Engineering",
+            "studyType": "Master",
+            "startDate": "2015-09-28",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
                 "Advanced Web applications",
                 "Network and system programming",
                 "Security oriented programming",
@@ -187,7 +201,7 @@
                 "Debian",
                 "CentOS",
                 "Apache2",
-                "LDAP",
+                "OpenLDAP",
                 "Network infrastructure",
                 "Steam game servers"
             ]
