@@ -71,12 +71,12 @@
         {
             "company": "CyXplus",
             "position": "Developer intern",
-            "website": "http://www.cyxplus.fr/",
+            "website": "http://www.cyxplus.fr",
             "startDate": "2014-06-15",
             "endDate": "2014-07-18",
             "summary": "",
             "highlights": [
-                "Development of scripts in VBA to control and automatically generate files for the software design office."
+                "Development of scripts in VBA to control and automatically generate files for the software design office"
             ]
         }
     ],
@@ -84,7 +84,7 @@
         {
             "organization": "Student Gaming Network",
             "position": "Founding member",
-            "website": "http://studentgamingnetwork.fr/",
+            "website": "http://studentgamingnetwork.fr",
             "startDate": "2015-05-01",
             "endDate": "",
             "summary": "The Student Gaming Network is a federation which gathers gaming associations from French schools",
@@ -99,7 +99,7 @@
             "website": "http://rezomen.fr/",
             "startDate": "2014-12-01",
             "endDate": "2015-05-01",
-            "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
+            "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus",
             "highlights": [
                 "Migrated the monitoring service from Nagios to Icinga2",
                 "Training of the new active members of the association"
@@ -108,10 +108,10 @@
         {
             "organization": "Gif Gaming Network",
             "position": "President",
-            "website": "http://gign.rez-gif.supelec.fr/",
+            "website": "http://gign.rez-gif.supelec.fr",
             "startDate": "2014-05-01",
             "endDate": "2015-05-01",
-            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus.",
+            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus",
             "highlights": [
                 "Deployed several servers for popular games",
                 "Organized the first Gaming Week-Ends on the campus"
