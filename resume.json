@@ -23,7 +23,7 @@
             {
                 "network": "Tumblr",
                 "username": "BackIsBachus",
-                "url": "https://backisbachus.tumblr.com/"
+                "url": "https://backisbachus.tumblr.com"
             },
             {
                 "network": "GitHub",
@@ -53,9 +53,9 @@
             "endDate": "2015-08-28",
             "summary": "Amadea is a Data Management Platform for real time data integration and transformation based on Data Morphing. It is the base engine for several other application developed by ISoft such as Fraud Manager used in fraud control by banks and insurance companies.",
             "highlights": [
-                "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component.",
-                "Adaptation of the personalization module to be reusable in another application which allowed a user to select preset components.",
-                "Continuous reflection about possible evolutions of Amadea Web thanks to this update."
+                "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component",
+                "Adaptation of the personalization module to be reusable in another application which allowed a user to select preset components",
+                "Continuous reflection about possible evolutions of Amadea Web thanks to this update"
             ]
         },
         {
@@ -66,7 +66,7 @@
             "endDate": "2015-07-15",
             "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec and the feedbacks from those who have already been there. TrainingAdvisor aims at simplifying the access to information for the students and offering them the benefits of their predecessors experience and advice. The platform also make it possible to extract the main trends.",
             "highlights": [
-                "Design according to specifications from the international direction and the strategic direction,",
+                "Design according to specifications from the international direction and the strategic direction",
                 "Development of a web platform with Symfony2",
                 "Launch in production of the platform for the end of the school year 2014-2015"
             ]
@@ -79,7 +79,7 @@
             "endDate": "2014-07-18",
             "summary": "CyXplus is in the NDT (Non Destructive Testing) industry, and is constantly working at supplying the most efficient inspection equipment and software to demanding manufacturing industries.",
             "highlights": [
-                "Development of scripts in VBA to control and automatically generate files for the software design office."
+                "Development of scripts in VBA to control and automatically generate files for the software design office"
             ]
         }
     ],
@@ -92,7 +92,7 @@
             "endDate": "",
             "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
-                "Organized the first edition of the Student Gaming League",
+                "Organization the first edition of the Student Gaming League",
                 "Designed and developed the first showcase website for the tournament"
             ]
         },
