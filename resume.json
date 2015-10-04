@@ -164,23 +164,6 @@
             ]
         }
     ],
-    "awards": [
-        {
-            "title": "",
-            "date": "",
-            "awarder": "",
-            "summary": ""
-        }
-    ],
-    "publications": [
-        {
-            "name": "",
-            "publisher": "",
-            "releaseDate": "",
-            "website": "",
-            "summary": ""
-        }
-    ],
     "skills": [
         {
             "name": "Web Development",
@@ -266,12 +249,6 @@
                 "Team competitive games",
                 "Dance Dance Revolution"
             ]
-        }
-    ],
-    "references": [
-        {
-            "name": "",
-            "reference": ""
         }
     ]
 }
