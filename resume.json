@@ -196,7 +196,7 @@
         },
         {
             "name": "System administration",
-            "level": "Advanced",
+            "level": "Intermediate",
             "keywords": [
                 "Debian",
                 "CentOS",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Monitoring",
-            "level": "Advanced",
+            "level": "Intermediate",
             "keywords": [
                 "Nagios",
                 "Icinga",
@@ -217,7 +217,7 @@
         },
         {
             "name": "Programming",
-            "level": "Beginner",
+            "level": "Intermediate",
             "keywords": [
                 "Python",
                 "Ruby",
