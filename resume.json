@@ -5,7 +5,7 @@
         "picture": "",
         "email": "jean-sebastien@renaud.xyz",
         "phone": "(+33)6 26 55 91 23",
-        "website": "http://renaud.xyz",
+        "website": "http://jean-sebastien.renaud.xyz",
         "summary": "",
         "location": {
             "address": "",
@@ -29,6 +29,16 @@
                 "network": "GitHub",
                 "username": "BackIsBachus",
                 "url": "https://github.com/BackIsBachus"
+            },
+            {
+                "network": "CodePen",
+                "username": "BackIsBachus",
+                "url": "http://codepen.io/BackIsBachus"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Jean-Sébastien Renaud",
+                "url": "https://fr.linkedin.com/pub/jean-s%C3%A9bastien-renaud/44/206/880/en"
             }
         ]
     },
