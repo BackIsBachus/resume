@@ -170,7 +170,7 @@
         },
         {
             "name": "System administration",
-            "level": "Advanced",
+            "level": "Intermediate",
             "keywords": [
                 "Debian",
                 "Network infrastructure",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Monitoring",
-            "level": "Advanced",
+            "level": "Intermediate",
             "keywords": [
                 "Nagios",
                 "Icinga",
