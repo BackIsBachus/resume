@@ -39,7 +39,7 @@
             "website": "http://studentgamingnetwork.fr",
             "startDate": "2015-06-01",
             "endDate": "",
-            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
+            "summary": "",
             "highlights": [
                 "Design, development and launch of a showcase website",
                 "Design and incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
@@ -51,11 +51,10 @@
             "website": "http://www.isoft.fr/index_en.htm",
             "startDate": "2015-06-29",
             "endDate": "2015-08-28",
-            "summary": "Amadea is a Data Management Platform for real time data integration and transformation based on Data Morphing. It is the base engine for several other application developed by ISoft such as Fraud Manager used in fraud control by banks and insurance companies.",
+            "summary": "",
             "highlights": [
-                "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component.",
-                "Adaptation of the personalization module to be reusable in another application which allowed a user to select preset components.",
-                "Continuous reflection about possible evolutions of Amadea Web thanks to this update."
+                "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component",
+                "Continuous reflection about possible evolutions of Amadea Web thanks to this update"
             ]
         },
         {
@@ -64,11 +63,9 @@
             "website": "https://trainingadvisor.supelec.fr",
             "startDate": "2014-09-01",
             "endDate": "2015-07-15",
-            "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec and the feedbacks from those who have already been there. TrainingAdvisor aims at simplifying the access to information for the students and offering them the benefits of their predecessors experience and advice. The platform also make it possible to extract the main trends.",
+            "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec",
             "highlights": [
-                "Design according to specifications from the international direction and the strategic direction,",
-                "Development of a web platform with Symfony2",
-                "Launch in production of the platform for the end of the school year 2014-2015"
+                "Launch in production of the platform at the end of the school year 2014-2015"
             ]
         },
         {
@@ -77,7 +74,7 @@
             "website": "http://www.cyxplus.fr/",
             "startDate": "2014-06-15",
             "endDate": "2014-07-18",
-            "summary": "CyXplus is in the NDT (Non Destructive Testing) industry, and is constantly working at supplying the most efficient inspection equipment and software to demanding manufacturing industries.",
+            "summary": "",
             "highlights": [
                 "Development of scripts in VBA to control and automatically generate files for the software design office."
             ]
@@ -90,10 +87,10 @@
             "website": "http://studentgamingnetwork.fr/",
             "startDate": "2015-05-01",
             "endDate": "",
-            "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
+            "summary": "The Student Gaming Network is a federation which gathers gaming associations from French schools",
             "highlights": [
-                "Organized the first edition of the Student Gaming League",
-                "Designed and developed the first showcase website for the tournament"
+                "Organization the first edition of the Student Gaming League",
+                "Design and development the first showcase website for the tournament"
             ]
         },
         {
@@ -104,7 +101,6 @@
             "endDate": "2015-05-01",
             "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
             "highlights": [
-                "Changed the fiber connecting the campus for a higer bandwith",
                 "Migrated the monitoring service from Nagios to Icinga2",
                 "Training of the new active members of the association"
             ]
@@ -115,7 +111,7 @@
             "website": "http://gign.rez-gif.supelec.fr/",
             "startDate": "2014-05-01",
             "endDate": "2015-05-01",
-            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Club animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus.",
+            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus.",
             "highlights": [
                 "Deployed several servers for popular games",
                 "Organized the first Gaming Week-Ends on the campus"
@@ -132,10 +128,6 @@
             "endDate": "",
             "gpa": "",
             "courses": [
-                "Information System and Databases",
-                "Information System Architecture",
-                "Software Engineering",
-                "Computer Science Foundations, Data Structures and Algorithms"
             ]
         },
         {
@@ -147,8 +139,6 @@
             "gpa": "",
             "courses": [
                 "Advanced Web applications",
-                "Network and system programming",
-                "Security oriented programming",
                 "Web algorithms and social networks"
             ]
         },
@@ -164,30 +154,12 @@
             ]
         }
     ],
-    "awards": [
-        {
-            "title": "",
-            "date": "",
-            "awarder": "",
-            "summary": ""
-        }
-    ],
-    "publications": [
-        {
-            "name": "",
-            "publisher": "",
-            "releaseDate": "",
-            "website": "",
-            "summary": ""
-        }
-    ],
     "skills": [
         {
             "name": "Web Development",
             "level": "Intermediate",
             "keywords": [
-                "HTML",
-                "CSS",
+                "HTML/CSS",
                 "JavaScript",
                 "PHP",
                 "Symfony2",
@@ -199,9 +171,6 @@
             "level": "Advanced",
             "keywords": [
                 "Debian",
-                "CentOS",
-                "Apache2",
-                "OpenLDAP",
                 "Network infrastructure",
                 "Steam game servers"
             ]
@@ -217,7 +186,7 @@
         },
         {
             "name": "Programming",
-            "level": "Beginner",
+            "level": "Intermediate",
             "keywords": [
                 "Python",
                 "Ruby",
@@ -232,10 +201,6 @@
         {
             "language": "French",
             "fluency": "Native speaker"
-        },
-        {
-            "language": "French Sign Language",
-            "fluency": "Elementary"
         },
         {
             "language": "English",
@@ -261,18 +226,10 @@
         {
             "name": "Video games",
             "keywords": [
-                "Game server administration",
-                "Story rich game",
-                "Team co-op games",
-                "Team competitive games",
+                "Story rich games",
+                "Team games",
                 "Dance Dance Revolution"
             ]
-        }
-    ],
-    "references": [
-        {
-            "name": "",
-            "reference": ""
         }
     ]
 }
