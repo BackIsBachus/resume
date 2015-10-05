@@ -16,14 +16,14 @@
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "BackIsBachus",
-                "url": "https://twitter.com/BackIsBachus"
-            },
-            {
                 "network": "Tumblr",
                 "username": "BackIsBachus",
                 "url": "https://backisbachus.tumblr.com/"
+            },
+            {
+                "network": "Twitter",
+                "username": "BackIsBachus",
+                "url": "https://twitter.com/BackIsBachus"
             },
             {
                 "network": "GitHub",
@@ -51,8 +51,8 @@
             "endDate": "",
             "summary": "",
             "highlights": [
-                "Design, development and launch of a showcase website",
-                "Design and incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
+                "(Personal project) Design, development and launch of a showcase website using ZURB Foudation",
+                "Incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
             ]
         },
         {
@@ -73,7 +73,7 @@
             "website": "https://trainingadvisor.supelec.fr",
             "startDate": "2014-09-01",
             "endDate": "2015-07-15",
-            "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec",
+            "summary": "(School project) TrainingAdvisor is a platform that regroups all the international academic opportunities available for the students of CentraleSupélec and the feedbacks from those who have already been there",
             "highlights": [
                 "Launch in production of the platform at the end of the school year 2014-2015"
             ]
@@ -99,8 +99,7 @@
             "endDate": "",
             "summary": "The Student Gaming Network is a federation which gathers gaming associations from French schools",
             "highlights": [
-                "Organization the first edition of the Student Gaming League",
-                "Design and development the first showcase website for the tournament"
+                "Organization the first edition of the Student Gaming League e-sport tournament"
             ]
         },
         {
@@ -109,10 +108,12 @@
             "website": "http://rezomen.fr/",
             "startDate": "2014-12-01",
             "endDate": "2015-05-01",
-            "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus",
+            "summary": "Management of the association as Secretary and then President",
             "highlights": [
-                "Migrated the monitoring service from Nagios to Icinga2",
-                "Training of the new active members of the association"
+                "Organized a hub for the Hash Code 2015 by Google France",
+                "Training of the new active members of the association",
+                "Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus",
+                "Migrated the monitoring service from Nagios to Icinga2"
             ]
         },
         {
@@ -121,10 +122,11 @@
             "website": "http://gign.rez-gif.supelec.fr",
             "startDate": "2014-05-01",
             "endDate": "2015-05-01",
-            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus",
+            "summary": "Club in charge of video game activities on the CentraleSupélec Gif-sur-Yvette campus",
             "highlights": [
-                "Deployed several servers for popular games",
-                "Organized the first Gaming Week-Ends on the campus"
+                "Animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus",
+                "Organized the first Gaming Week-Ends on the campus",
+                "Deployed and managed several servers for popular games"
             ]
         }
 
@@ -138,8 +140,9 @@
             "endDate": "",
             "gpa": "",
             "courses": [
-                "Information System and Databases",
-                "Software Engineering"
+                "Information System, Databases and Security",
+                "Software Engineering",
+                "Algorithmic and Computational Complexity"
             ]
         },
         {
@@ -151,31 +154,23 @@
             "gpa": "",
             "courses": [
                 "Advanced Web applications",
-                "Web algorithms and social networks"
-            ]
-        },
-        {
-            "institution": "Lycée Vauvenargues",
-            "area": "Physics and Technology",
-            "studyType": "Preparatory class for the \"Banque PT\" selective exam",
-            "startDate": "2011-09-01",
-            "endDate": "2013-07-15",
-            "gpa": "",
-            "courses": [
-
+                "Web algorithms and social networks",
+                "System and Network Programming",
+                "Security Oriented Programming"
             ]
         }
     ],
     "skills": [
         {
             "name": "Web Development",
-            "level": "Intermediate",
+            "level": "Advnaced",
             "keywords": [
-                "HTML/CSS",
-                "JavaScript",
                 "PHP",
                 "Symfony2",
-                "Foudation"
+                "HTML/CSS",
+                "JavaScript",
+                "SASS",
+                "ZURB Foudation"
             ]
         },
         {
@@ -183,6 +178,9 @@
             "level": "Intermediate",
             "keywords": [
                 "Debian",
+                "CentOS",
+                "Apache2",
+                "OpenLDPA",
                 "Network infrastructure",
                 "Steam game servers"
             ]
@@ -200,12 +198,13 @@
             "name": "Programming",
             "level": "Intermediate",
             "keywords": [
-                "Python",
-                "Ruby",
                 "Java",
                 "C++",
                 "C#",
-                "Lua"
+                "Python",
+                "Ruby",
+                "Lua",
+                "VBA"
             ]
         }
     ],
@@ -215,16 +214,16 @@
             "fluency": "Native speaker"
         },
         {
-            "language": "French Sign Language",
-            "fluency": "Beginner"
-        },
-        {
             "language": "English",
             "fluency": "Professional working proficiency"
         },
         {
             "language": "Spanish",
             "fluency": "Limited working proficiency"
+        },
+        {
+            "language": "French Sign Language",
+            "fluency": "Beginner"
         }
     ],
     "interests": [
@@ -237,15 +236,15 @@
             ]
         },
         {
-            "name": "Cooking"
-        },
-        {
             "name": "Video games",
             "keywords": [
                 "Story rich games",
                 "Team games",
                 "Dance Dance Revolution"
             ]
+        },
+        {
+            "name": "Cooking"
         }
     ]
 }
