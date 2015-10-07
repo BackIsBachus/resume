@@ -41,8 +41,8 @@
             "endDate": "",
             "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
-                "Design, development and launch of a showcase website",
-                "Design and incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
+                "(Personal project) Design, development and launch of a showcase website",
+                "Incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
             ]
         },
         {
@@ -92,8 +92,7 @@
             "endDate": "",
             "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
-                "Organization the first edition of the Student Gaming League",
-                "Designed and developed the first showcase website for the tournament"
+                "Organization the first edition of the Student Gaming League"
             ]
         },
         {
@@ -102,11 +101,15 @@
             "website": "http://rezomen.fr/",
             "startDate": "2014-12-01",
             "endDate": "2015-05-01",
-            "summary": "Management of the association as Secretary and then President. Administration of several servers and servicies for the association providing an internet connexion to a 700-800 student campus.",
+            "summary": "Supélec Rézo is the association that manages the internet connection and provide servicies on the ContraleSupélec Gif-sur-Yvette campus for its 700-800 residents.",
             "highlights": [
+                "Management of the association as Secretary and then President",
+                "Organized a hub for the Hash Code 2015 by Google France",
+                "Training of the new active members of the association",
                 "Changed the fiber connecting the campus for a higer bandwith",
+                "Administration of several servers and servicies (mail server, firwall, NAT, monitoring, FTP indexer, Steam cache)",
                 "Migrated the monitoring service from Nagios to Icinga2",
-                "Training of the new active members of the association"
+                "Enhanced the WiFi coverage on campus by doubling the number of WiFi hotspots"
             ]
         },
         {
@@ -115,10 +118,11 @@
             "website": "http://gign.rez-gif.supelec.fr/",
             "startDate": "2014-05-01",
             "endDate": "2015-05-01",
-            "summary": "Club in charge of video game activities on the CentraleSupélec Gif campus. Club animation and organization of regular events related to video games on the campus. Management of game servers hosted on the campus.",
+            "summary": "Club in charge of video game activities on the CentraleSupélec Gif-sur-Yvette campus.",
             "highlights": [
-                "Deployed several servers for popular games",
-                "Organized the first Gaming Week-Ends on the campus"
+                "Club animation and organization of regular events related to video games on the campus",
+                "Organized the first Gaming Week-Ends on the campus",
+                "Deployed and managed several servers for popular games"
             ]
         }
 
@@ -132,10 +136,10 @@
             "endDate": "",
             "gpa": "",
             "courses": [
-                "Information System and Databases",
+                "Information System, Databases and Security",
                 "Information System Architecture",
                 "Software Engineering",
-                "Computer Science Foundations, Data Structures and Algorithms"
+                "Algorithmic and Computational Complexity"
             ]
         },
         {
@@ -147,9 +151,9 @@
             "gpa": "",
             "courses": [
                 "Advanced Web applications",
+                "Web algorithms and social networks",
                 "Network and system programming",
-                "Security oriented programming",
-                "Web algorithms and social networks"
+                "Security oriented programming"
             ]
         },
         {
@@ -167,13 +171,14 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "Intermediate",
+            "level": "Advanced",
             "keywords": [
-                "HTML/CSS",
-                "JavaScript",
                 "PHP",
                 "Symfony2",
-                "Foudation"
+                "HTML/CSS",
+                "JavaScript",
+                "SASS",
+                "ZURB Foudation"
             ]
         },
         {
@@ -201,12 +206,13 @@
             "name": "Programming",
             "level": "Intermediate",
             "keywords": [
-                "Python",
-                "Ruby",
                 "Java",
                 "C++",
                 "C#",
-                "Lua"
+                "Python",
+                "Ruby",
+                "Lua",
+                "VBA"
             ]
         }
     ],
@@ -216,16 +222,16 @@
             "fluency": "Native speaker"
         },
         {
-            "language": "French Sign Language",
-            "fluency": "Beginner"
-        },
-        {
             "language": "English",
             "fluency": "Professional working proficiency"
         },
         {
             "language": "Spanish",
             "fluency": "Limited working proficiency"
+        },
+                {
+            "language": "French Sign Language",
+            "fluency": "Beginner"
         }
     ],
     "interests": [
