@@ -244,7 +244,9 @@
             ]
         },
         {
-            "name": "Cooking"
+            "name": "Cooking",
+            "keywords": [
+                ]
         },
         {
             "name": "Video games",
