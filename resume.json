@@ -6,7 +6,7 @@
         "email": "jean-sebastien@renaud.xyz",
         "phone": "(+33)6 26 55 91 23",
         "website": "http://jean-sebastien.renaud.xyz",
-        "summary": "I am in 3rd year student in Computer Science in CentraleSupélec, Supélec formation (high ranked French engineering school). My involvement in the association Supélec Rézo as a regular member, then an administrator, secretary and president depicts my growing interest for computer science. Supélec Rézo allowed me to develop several skills among architecture, information systems management, development, working with professional hardware or managing voluntary teams working on long term projects. Finally, I recently came to like web development as both a back-end and a front-end developer thanks to my personal and academic projects. I am therefor searching a 6 month end-of-studies internship, outside of France, in this field starting in April 2016.",
+        "summary": "I am in 3rd year student in Computer Science in CentraleSupélec, Supélec formation (high ranked French engineering school). My involvement in the association Supélec Rézo as a regular member, then as Secretary and then as President depicts my growing interest for computer science. Supélec Rézo allowed me to develop several skills among network architecture, information systems management, development, working with professional hardware or managing voluntary teams working on long term projects. Finally, I recently came to like web development as both a back-end and a front-end developer thanks to my personal and academic projects. I am therefore searching a 6 month end-of-studies internship, outside of France, in this field starting in April 2016.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -40,14 +40,13 @@
     "work": [
         {
             "company": "Student Gaming Network",
-            "position": "Network Project Manager and Lead Fron-end Developer",
+            "position": "Network Project Manager and Lead Front-end Developer",
             "website": "http://studentgamingnetwork.fr",
             "startDate": "2015-06-01",
             "endDate": "",
             "summary": "The Student Gaming Network is a federation created in 2015 which gathers the gaming associations from many French universities, engineering and business schools. The federation also organize the Student Gaming League, an E-sport tournament for students in partnership with the ESL.",
             "highlights": [
-                "(Personal project) Design, development and launch of a showcase website",
-                "Incremental implementation of a complete IT environment (mail, project management platform, discussion platform, etc)"
+                "(Personal project) Design, development and launch of a showcase website with ZURB Foundation"
             ]
         },
         {
@@ -56,7 +55,7 @@
             "website": "http://www.isoft.fr/index_en.htm",
             "startDate": "2015-06-29",
             "endDate": "2015-08-28",
-            "summary": "Amadea is a Data Management Platform for real time data integration and transformation based on Data Morphing. It is the base engine for several other application developed by ISoft such as Fraud Manager used in fraud control by banks and insurance companies.",
+            "summary": "Amadea is a Data Management Platform for real time data integration and transformation based on Data Morphing. It is the base engine for several other application developed by ISoft such as Fraud Manager used in fraud control by banks and insurance companies. (Turnover 1.000.000 €)",
             "highlights": [
                 "Update of a demo application for Amadea Web (data mining and web based reports software) to select style classes to apply to a component",
                 "Adaptation of the personalization module to be reusable in another application which allowed a user to select preset components",
@@ -82,13 +81,30 @@
             "website": "http://www.cyxplus.fr/",
             "startDate": "2014-06-15",
             "endDate": "2014-07-18",
-            "summary": "CyXplus is in the NDT (Non Destructive Testing) industry, and is constantly working at supplying the most efficient inspection equipment and software to demanding manufacturing industries.",
+            "summary": "CyXplus is in the NDT (Non Destructive Testing) industry, and is constantly working at supplying the most efficient inspection equipment and software to demanding manufacturing industries. (Turnover 5.000.000 €)",
             "highlights": [
                 "Development of scripts in VBA to control and automatically generate files for the software design office"
             ]
         }
     ],
     "volunteer": [
+        {
+            "organization": "Supélec Rézo",
+            "position": "President, Secretary and Honorary member",
+            "website": "http://rezomen.fr/",
+            "startDate": "2014-12-01",
+            "endDate": "2015-05-01",
+            "summary": "Supélec Rézo is the association that manages the internet connection and provide services (data storage, web hosting, ...) on the ContraleSupélec Gif-sur-Yvette campus for its 800 residents, for a total turnover of 25.000 €",
+            "highlights": [
+                "Management of the association as Secretary and then President",
+                "Organized a hub for the Hash Code 2015 by Google France",
+                "Training of the new active members of the association",
+                "Changed the fiber connecting the campus for a higer bandwith",
+                "Administration of several servers and servicies (mail server, firwall, NAT, monitoring, FTP indexer, Steam cache)",
+                "Migrated the monitoring service from Nagios to Icinga2",
+                "Enhanced the WiFi coverage on campus by doubling the number of WiFi hotspots"
+            ]
+        },
         {
             "organization": "Student Gaming Network",
             "position": "Founding member",
@@ -101,23 +117,6 @@
             ]
         },
         {
-            "organization": "Supélec Rézo",
-            "position": "President, Secretary and Active member",
-            "website": "http://rezomen.fr/",
-            "startDate": "2014-12-01",
-            "endDate": "2015-05-01",
-            "summary": "Supélec Rézo is the association that manages the internet connection and provide servicies on the ContraleSupélec Gif-sur-Yvette campus for its 700-800 residents.",
-            "highlights": [
-                "Management of the association as Secretary and then President",
-                "Organized a hub for the Hash Code 2015 by Google France",
-                "Training of the new active members of the association",
-                "Changed the fiber connecting the campus for a higer bandwith",
-                "Administration of several servers and servicies (mail server, firwall, NAT, monitoring, FTP indexer, Steam cache)",
-                "Migrated the monitoring service from Nagios to Icinga2",
-                "Enhanced the WiFi coverage on campus by doubling the number of WiFi hotspots"
-            ]
-        },
-        {
             "organization": "Gif Gaming Network",
             "position": "President",
             "website": "http://gign.rez-gif.supelec.fr/",
@@ -125,9 +124,9 @@
             "endDate": "2015-05-01",
             "summary": "Club in charge of video game activities on the CentraleSupélec Gif-sur-Yvette campus.",
             "highlights": [
-                "Club animation and organization of regular events related to video games on the campus",
-                "Organized the first Gaming Week-Ends on the campus",
-                "Deployed and managed several servers for popular games"
+                "Animation and organization of regular events related to video games on the campus",
+                "Organization of the first Gaming Week-Ends on the campus",
+                "Deployment and management several servers for popular games"
             ]
         }
 
@@ -138,7 +137,7 @@
             "area": "Computer Science",
             "studyType": "Master of Engineering (MEng)",
             "startDate": "2013-09-02",
-            "endDate": "",
+            "endDate": "2016-09-02",
             "gpa": "",
             "courses": [
                 "Information System, Databases and Security",
@@ -152,7 +151,7 @@
             "area": "Foundations of Computer Science and Software Engineering",
             "studyType": "Master",
             "startDate": "2015-09-28",
-            "endDate": "",
+            "endDate": "2016-09-02",
             "gpa": "",
             "courses": [
                 "Advanced Web applications",
@@ -176,19 +175,22 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "Advanced",
+            "level": "Master",
             "keywords": [
                 "PHP",
                 "Symfony2",
-                "HTML/CSS",
                 "JavaScript",
+                "HTML",
+                "CSS",
                 "SASS",
-                "ZURB Foundation"
+                "ZURB Foundation",
+                "Django",
+                "Rails"
             ]
         },
         {
             "name": "System administration",
-            "level": "Intermediate",
+            "level": "Master",
             "keywords": [
                 "Debian",
                 "CentOS",
@@ -200,7 +202,7 @@
         },
         {
             "name": "Monitoring",
-            "level": "Intermediate",
+            "level": "Master",
             "keywords": [
                 "Nagios",
                 "Icinga",
@@ -209,7 +211,7 @@
         },
         {
             "name": "Programming",
-            "level": "Intermediate",
+            "level": "Advanced",
             "keywords": [
                 "Java",
                 "C++",
@@ -248,12 +250,7 @@
                 "Orienteering"
             ]
         },
-        {
-            "name": "Cooking",
-            "keywords": [
-                ]
-        },
-        {
+                {
             "name": "Video games",
             "keywords": [
                 "Game server administration",
@@ -262,6 +259,11 @@
                 "Team competitive games",
                 "Dance Dance Revolution"
             ]
+        },
+        {
+            "name": "Cooking",
+            "keywords": [
+                ]
         }
     ]
 }
