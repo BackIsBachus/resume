@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Jean-Sébastien Renaud",
-        "label": "Back/Front-End Developer Student",
+        "label": "Software Engineer Student",
         "picture": "img/photo_small.png",
         "email": "jean-sebastien@renaud.xyz",
         "phone": "(+33)6 26 55 91 23",
         "website": "http://jean-sebastien.renaud.xyz",
-        "summary": "I am in 3rd year student in Computer Science in CentraleSupélec, Supélec formation (high ranked French engineering school). My involvement in the association Supélec Rézo as a regular member, then as Secretary and then as President depicts my growing interest for computer science. Supélec Rézo allowed me to develop several skills among network architecture, information systems management, development, working with professional hardware or managing voluntary teams working on long term projects. Finally, I recently came to like web development as both a back-end and a front-end developer thanks to my personal and academic projects. I am therefore searching a 6 month end-of-studies internship, outside of France, in this field starting in April 2016.",
+        "summary": "I am in 3rd year student in Computer Science in CentraleSupélec, Supélec formation (high ranked French engineering school). My involvement in the association Supélec Rézo as a regular member, then as Secretary and then as President depicts my growing interest for computer science. Supélec Rézo allowed me to develop several skills among network architecture, information systems management, development, working with professional hardware or managing voluntary teams working on long term projects. Finally, I recently came to like web development as both a back-end and a front-end developer thanks to my personal and academic projects. I am therefore searching a 5 month end-of-studies internship, outside of France, that need any of those skills starting in Mars-April 2016.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -134,7 +134,7 @@
     "education": [
         {
             "institution": "CentraleSupélec",
-            "area": "Computer Science",
+            "area": "Information Systems",
             "studyType": "Master of Engineering (MEng)",
             "startDate": "2013-09-02",
             "endDate": "2016-09-02",
@@ -143,7 +143,10 @@
                 "Information System, Databases and Security",
                 "Information System Architecture",
                 "Software Engineering",
-                "Algorithmic and Computational Complexity"
+                "Algorithmic and Computational Complexity",
+                "Project Managemnt",
+                "IT Systems Security"
+
             ]
         },
         {
